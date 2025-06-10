@@ -6,3 +6,8 @@
 div{
     background-color: black;
 }
+.images{border: 5px solid white;
+    width:100%;
+
+}
+h1{text-transform: capitalize;}
