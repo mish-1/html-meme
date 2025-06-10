@@ -4,6 +4,8 @@
   font-style: normal;
   color: white;}
 div{
+  width: 50%;
+    margin-left: 25%;
     background-color: black;
 }
 .images{border: 5px solid white;
